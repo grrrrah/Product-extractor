@@ -1,0 +1,85 @@
+[
+    (
+        "Franck Sofa – Sutherland Furniture",
+        {"entities": [(0, 11, LABEL)]},
+    ),
+    (
+        "ROMA SOFA - PEBBLE – Najarian Furniture Skip to content",
+        {"entities": [(0, 9, LABEL)]},
+    ),
+    (
+        "Big Cay Desk | Maine Cottage",
+        {"entities": [(0, 12, LABEL)]},
+    ),
+    (
+        "Jack Stools — Lostine",
+        {"entities": [(0, 11, LABEL)]},
+    ),
+    (
+        "Patio Set Covers (Small Set) — Wholesale Furniture Brokers",
+        {"entities": [(0, 16, LABEL)]},
+    ),
+    (
+        "Muuto | Tip Lamp | Shop online at someday designs",
+        {"entities": [(9, 16, LABEL)]},
+    ),
+    (
+        "Muuto | Tip Lamp | Shop online at someday designs",
+        {"entities": [(9, 16, LABEL)]},
+    ),
+    (
+        "Esme Natural Rattan Day Bed – Koko Collective",
+        {"entities": [(0, 27, LABEL)]},
+    ),
+    (
+        "Esme Natural Rattan Day Bed – Koko Collective",
+        {"entities": [(0, 27, LABEL)]},
+    ),
+    (
+        "Rattan Day Bed – Koko Collective",
+        {"entities": [(0, 14, LABEL)]},
+    ),
+    (
+        "Wooster Convertible Crib – Karla Dubois",
+        {"entities": [(0, 24, LABEL)]},
+    ),
+    (
+        "Day Bed – Koko Collective",
+        {"entities": [(0, 7, LABEL)]},
+    ),
+    (
+        "Sola desk with solid hardwood top and electronic lift system. - Five Elements Furniture",
+        {"entities": [(0, 9, LABEL)]},
+    ),
+    (
+        "SLEEP Mattress, Mattresses by HipVan | HipVan",
+        {"entities": [(0, 14, LABEL)]},
+    ),
+    (
+        "Bunk Bed – Koko Collective",
+        {"entities": [(0, 8, LABEL)]},
+    ),
+    (
+        "AVA 4.3 - 2 Sliding door wardrobe with LED Lights and the best separat – Wardrobe Bunk Bed Sofa",
+        {"entities": [(13, 49, LABEL)]},
+    ),
+    (
+        "AVA 4.3 - 2 Sliding door wardrobe with LED Lights and the best separat – Wardrobe Bunk Bed Sofa",
+        {"entities": [(13, 49, LABEL)]},
+    ),
+    (
+        "Wardrobe Bunk Bed Sofa",
+        {"entities": [(0, 22, LABEL)]},
+    ),
+    (
+        "Chair",
+        {"entities": [(0, 5, LABEL)]},
+    ),
+    (
+        "Tetrad Patna Chair - Hopewells",
+        {"entities": [(0, 18, LABEL)]},
+
+    ),
+
+
+]
